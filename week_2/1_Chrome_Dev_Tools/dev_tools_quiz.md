@@ -27,9 +27,12 @@
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
 
 
-* "Elements" and "Styles" tabs support the realtime editing of HTML and CSS by letting the user change change or delete any element, property, value, etc.
-* The "Sources" tab allows the user to perform JS debugging.
-* The "Network" tab is responsible for performance optimization.
+https://raw.githubusercontent.com/vabacumov/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/Points_Total.png
+
+*
+  * "Elements" and "Styles" tabs support the realtime editing of HTML and CSS by letting the user change change or delete any element, property, value, etc.
+  * The "Sources" tab allows the user to perform JS debugging.
+  * The "Network" tab is responsible for performance optimization.
 
 * Ctrl+Shift+i (Windows).
 
@@ -37,7 +40,8 @@
 
 * This text is part of an image, not a paragraph.
 
-* The largest image on www.ticketswizard.com is "sellyourtix_1.sflb.ashx"
-* I found this information using the "Network" tab in DevTools, more specifically, by sorting all files by size and then looking up the largest image. The "sellyourtix_1.sflb.ashx" image's size is 214B.
+*
+  * The largest image on www.ticketswizard.com is "sellyourtix_1.sflb.ashx"
+  * I found this information using the "Network" tab in DevTools, more specifically, by sorting all files by size and then looking up the largest image. The "sellyourtix_1.sflb.ashx" image's size is 214B.
 
 * I really am not sure what answer to choose here... I have a few choices, like defering parsing of JS, minifying HTML, CSS and JS, or even optimizing the images. The latter could save 884.7KiB.
