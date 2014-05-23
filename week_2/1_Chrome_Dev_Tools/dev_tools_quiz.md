@@ -27,7 +27,7 @@
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the easiest thing to change to optimize the website?  How many kilobytes of data can be eliminated?
 
 
-https://raw.githubusercontent.com/vabacumov/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/Points_Total.png
+<img src="https://raw.githubusercontent.com/vabacumov/phase_0_unit_1/master/week_2/1_Chrome_Dev_Tools/imgs/Points_Total.png" style="max-width:100%;" />
 
 
  * "Elements" and "Styles" tabs support the realtime editing of HTML and CSS by letting the user change change or delete any element, property, value, etc.
