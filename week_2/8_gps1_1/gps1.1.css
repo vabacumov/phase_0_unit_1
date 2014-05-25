@@ -1,1 +1,36 @@
 /* include your css here */
+body {
+    width:100%;
+    margin: auto;
+      }
+      
+ #header {
+        text-align:center;
+        background-color: Yellow;
+      }
+      
+#content {
+        display: inline;
+        text-align:justify;
+        padding: 10px 20px;
+        width: 60%;
+      }
+      
+#left-image {
+        display: inline;
+        width: 15%;
+      }
+      
+#left-image img {
+        width: 100%;
+      }
+      
+#right-image {
+        display: inline;
+        width: 15%;
+      }
+      
+#right-image img {
+        width: 100%;
+      }
+    
