@@ -13,28 +13,57 @@ var terah = {
 }
 
 
+/* Pseudocode
+
+Give adam a name property with the value "Adam".
+
+Add a spouse property to terah and assign it the value of adam.
+
+Change the value of the terah weight property to 125.
+
+Remove the eyeColor property from terah.
+
+Add a spouse property to adam and assign it the value of terah.
+
+Add a children property to terah and and use object literal notation to assign this variable the value of a JavaScript Object object with no properties
+
+Add a carson property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carson".
+
+Add a carter property to the value of the terah children property and assign it the value of an object with the property name with a value of "Carter".
+
+Add a colton property to the value of the terah children property and assign it the value of an object with the property name with a value of "Colton".
+
+Add a children property to adam and assign it the value of terah children. */
 
 // __________________________________________
 // Write your code below.
-
-
-
-
-
-
+var adam = {};
+adam.name = "Adam";
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: "Carson"};
+terah.children.carter = {name: "Carter"};
+terah.children.colton = {name: "Colton"};
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// This challenge went really smooth for me. I didn't run into any problems.
+// Since the pseudocode was already available, it wasn't very hard to translate it
+// into the actual code. My strategy was just adding a line of code and running the 
+// test step-by-step making sure everything works along the way. I only had to 
+// turn to an additional resource to remind myself how to remove a property from an 
+// object, so I went to W3Schools.com. Overall, I was very confident going through this  
+// challenge and it reminded me a lot of Challenge 3, although I completed that one with 
+// a partner. This assignment was not at all tedious but I can't say that I had too much 
+// fun completing it either.
 
 
-// __________________________________________
+//__________________________________________
 // Driver Code:  Do not alter code below this line.
 function assert(test, message, test_number) {
   if (!test) {
