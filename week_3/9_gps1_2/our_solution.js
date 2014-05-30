@@ -80,4 +80,4 @@ the assignment done much faster. However, on a positive note, we learned a whole
 this challenge. Even though, we had to schedule another peer-pairing session in order to be able to finish it 
 up, it was definitely worth it! Overall, I can say that enjoyed digging through this assignment. In the future, 
 I hope that having more knowledge and experience under my belt will give me more confidence, thus allowing me to 
-complete the tasks more effectively and faster.
+complete the tasks more effectively and faster. */
