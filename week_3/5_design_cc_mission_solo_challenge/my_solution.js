@@ -144,7 +144,8 @@ function checkObj() {
 	}
 }
 
-// Combine 4 different "move" functions into one fucntion with a switch statement that will take direction of movement as an argument in form of a string.
+// Combine 4 different "move" functions into one fucntion with a switch statement that will take
+// direction of movement as an argument in form of a string.
 player.move = function(direction) {
 	switch (direction) {
 		case "up":
@@ -181,12 +182,14 @@ player.move("right");
 player.move("right");
 // Finds and exit
 
-// Reflection
-// My initial reaction after reading through the instructions for this assignment was that this is going to be the most difficult task I had to face up to this point and I seriously doubted that I could even successfully complete it. But, as I slowly rolled into it, I realized that this is actually a lot of fun and it's possible to get creative here. The main reason for my worries was that my JS knowledge, including syntax, is not good enough yet to be writing seemingly such a complex code. Also, the fact that this was a solo assignment added the element of nervousness. Now that I'm finished with it though, I can say that it was very productive to finally write a more or less significant piece of code by myself. Of course, I would occasionally run into mistakes and errors here and there, but luckily, I was able to clarify what was wrong and fix it. I definitely learned a lot from this assignment and gained a valuable experience of coding, got my feet wet, so to speak. Also, once I again I realized that initial planning, pseudocode and refactoring are crucial elements of completing more or less complicated code challenge like this one. I will make sure to stick to this strategy in the future!
-// 
-// 
-// 
-// 
-// 
-// 
-// 
+// Reflection My initial reaction after reading through the instructions for this assignment was that this is going to
+// be the most difficult task I had to face up to this point and I seriously doubted that I could even successfully
+// complete it. But, as I slowly rolled into it, I realized that this is actually a lot of fun and it's possible to get
+// creative here. The main reason for my worries was that my JS knowledge, including syntax, is not good enough yet to
+// be writing seemingly such a complex code. Also, the fact that this was a solo assignment added the element of
+// nervousness. Now that I'm finished with it though, I can say that it was very productive to finally write a more or
+// less significant piece of code by myself. Of course, I would occasionally run into mistakes and errors here and
+// there, but luckily, I was able to clarify what was wrong and fix it. I definitely learned a lot from this assignment
+// and gained a valuable experience of coding, got my feet wet, so to speak. Also, once I again I realized that initial
+// planning, pseudocode and refactoring are crucial elements of completing more or less complicated code challenge like
+// this one. I will make sure to stick to this strategy in the future!
