@@ -1,7 +1,7 @@
 // This is a solo challenge
 
 // Your mission description:
-// *** Maze
+*** Maze
 // The primary objective of the mission is to get out of the maze. The secondary objectives are:
 // 1) To grab the key in order to be able to exit the maze;
 // 2) To avoid running into an enemy. 
