@@ -24,5 +24,10 @@ var median = function(list){
   }
 };
 
-// Summary
-// After running the final code located above through all 9 tests that were given for this assignment, all tests have passed. Congratulations guys, great job! I'm not really sure what else needs to be included in this summary, but I just want to say to it was very easy reading through and interpreting your code for me as Person 1, who didn't really participate in the production of the actual code. The only part that got confusing was sorting[half] in the median function, but I think understand it now. I believe the only thing that's left to do for this assignment is to write our personal reflections. Nice working with you all!
+// Summary After running the final code located above through all 9 tests that were given for this
+// assignment, all tests have passed. Congratulations guys, great job! I'm not really sure what else
+// needs to be included in this summary, but I just want to say to it was very easy reading through
+// and interpreting your code for me as Person 1, who didn't really participate in the production of
+// the actual code. The only part that got confusing was sorting[half] in the median function, but I
+// think understand it now. I believe the only thing that's left to do for this assignment is to
+// write our personal reflections. Nice working with you all!
